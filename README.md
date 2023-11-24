@@ -1,4 +1,6 @@
-Linear Regression Implementation
+Linear Regression Implementation for health insurance
+
+![Alt text](image.png)
 
 Overview
 This project focuses on implementing a linear regression model to predict the cost of a person's health insurance based on various physiological factors. The dataset used for training and evaluation contains information about clients, including age, gender, body mass index (bmi), number of children, smoking status, residential region, and health insurance premium (charges).
